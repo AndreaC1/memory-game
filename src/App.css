@@ -1,0 +1,42 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+
+}
+
+h2 {
+  color: white;
+}
+
+#scoreboard {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(99, 10, 10);
+}
+
+body {
+
+  background-color: rgb(17, 17, 16);
+}
+
+
+img {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+#imageContainer {
+  background-color: rgb(221, 221, 221);
+  border: black solid;
+
+}
+
+
+#Repeated {
+  border: black solid;
+}
